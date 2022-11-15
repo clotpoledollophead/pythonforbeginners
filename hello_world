@@ -1,0 +1,6 @@
+#In this program we will run the first piece of program
+#most programmers do when starting a new language
+#"Hello world."
+#To print in Python, we use the print command
+
+print("Hello, world!")
